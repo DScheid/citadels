@@ -1,7 +1,7 @@
 var chars = [
   ["assasin", "witch", "magistrate"],
   ['thief', "spy", "blackmailer"],
-  ["magician","wizard", "Seer"],
+  ["magician","wizard", "seer"],
   ["king", "emperor", "patrician"],
   ["bishop", "abbot", "cardinal"],
   ["merchant", "alchemist", "trader"],
