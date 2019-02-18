@@ -7,7 +7,7 @@ var chars = [
   ["merchant", "alchemist", "trader"],
   ["architect","navigator", "scholar"],
   ["warlord", "diplomat", "marshal"],
-  ["queen", "tax collector"]
+  ["queen", "artist", "tax collector"]
 ]
 var winners = ["","","","","","","","",""]
 var num = 0;
